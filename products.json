@@ -1,0 +1,40 @@
+
+[
+  {
+    "name":"iphone",
+    "price":154,
+    "featured":true,
+    "company":"apple"
+  },
+
+  {
+    "name":"iphone",
+    "price":1534,
+    "featured":true,
+    "company":"apple"
+
+  },
+
+  {
+
+    "name":"watch",
+    "price":1954,
+    "company":"apple"
+  },
+  
+  {
+    "name":"iphone",
+    "price":1514,
+    "company":"apple"
+
+  },
+
+  {
+    "name":"mi",
+    "price":1054,
+    "featured":false,
+    "company":"apple"
+  }
+
+
+]
